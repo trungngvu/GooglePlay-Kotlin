@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/game"
+        android:icon="@drawable/outline_videogame_asset_24"
+        android:title="Games"  />
+    <item
+        android:id="@+id/app"
+        android:icon="@drawable/outline_apps_24"
+        android:title="Apps" />
+    <item
+        android:id="@+id/book"
+        android:icon="@drawable/outline_book_24"
+        android:title="Books" />
+</menu>
